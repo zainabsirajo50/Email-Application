@@ -1,6 +1,8 @@
 # Email Application
 
+**Features**
 
-Implements an application that takes input from the user and displays account information using **Java**
+- Accepts user input, such as name and department
+- 
 
 
